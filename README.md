@@ -3,7 +3,7 @@
 
 ## Overview
 
-The McAfee Common Threat Event DXL Python client library provides a high level wrapper for the Common Threat Event message format.
+The OpenDXL Common Threat Event Python client library provides a high level wrapper for the Common Threat Event message format.
 
 The purpose of this library is to allow users to receive threat events over DXL without having to focus on lower-level details such as message formatting.
 
@@ -18,7 +18,7 @@ installation instructions, API documentation, and examples.
 
 ## Installation
 
-To start using the McAfee Common Threat Event DXL Python Client Library:
+To start using the OpenDXL Common Threat Event Python Client Library:
 
 * Download the [Latest Release](https://github.com/opendxl/opendxl-common-threatevent-client-python/releases/latest)
 * Extract the release .zip file
